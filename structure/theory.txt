@@ -1,0 +1,17 @@
+nested struct can be possible
+it is defined for multiple type data
+
+typedeff is known as macros
+
+
+
+
+Pointer problem ===>>>  int* x,y; --> means -->  int*x and int y
+
+to solve this pointer problem we use typedef method
+
+
+
+
+in pointer pass by reference
+(*x).something == x->something
